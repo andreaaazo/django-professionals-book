@@ -27,10 +27,9 @@ This is an overview of the projects, and what elements we are touching:
 
 | Project Name  | Project Objectives  | Keywords|
 | ------------- |:-------------:|:-----------:|
-| hello world   | Basic terminal commands / first Django website / Pipenv | git, terminal, templates, tests, pipenv|
-| pages         | URLS / Views / Templates / Django settings | ListView, urlpatterns, Django templates |
-| mb            | Models / Database / Templates      |models, Django admin|
-| blog          | Models / Database / Django template language / Basic HTML | HTML, CSS, static, Django admin |
+| hello         | Basic terminal commands / first Django website / Pipenv | git, terminal, templates, tests, pipenv|
+| postgresql    | URLS / Views / Templates / Django settings.             | ListView, urlpatterns, Django templates|
+| books         | Models / Database / Templates                           |models, Django admin.                   |
 
 
 <br />
