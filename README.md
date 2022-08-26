@@ -8,10 +8,9 @@ I expandend my beginner Django knowledge by reading "Django for Professionals" b
 All the projects below come from the book.
 
 [Introduction](#introduction) •
-[Project 1](https://github.com/andreaaazo/django-beginner-book/tree/main/helloworld) •
-[Project 2](https://github.com/andreaaazo/django-beginner-book/tree/main/pages) •
-[Project 3](https://github.com/andreaaazo/django-beginner-book/tree/main/mb) •
-[Project 4](https://github.com/andreaaazo/django-beginner-book/tree/main/blog)
+[Project 1](https://github.com/andreaaazo/django-professionals-book/tree/main/hello) •
+[Project 2](https://github.com/andreaaazo/django-professionals-book/tree/main/postgresql) •
+[Project 3](https://github.com/andreaaazo/django-professionals-book/tree/main/books)
 
 </div>
 
